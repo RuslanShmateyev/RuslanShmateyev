@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-<div> any text </div>
+<div id="any"> any text </div>
+
+<script> 
+const div = document.querySelector('any');
+  div.innerHTML = 'not any text';
+</script>
+
 <!--
 **RuslanShmateyev/RuslanShmateyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
