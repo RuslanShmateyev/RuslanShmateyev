@@ -3,7 +3,7 @@
 <div id="any"> any text </div>
 
 <script> 
-const div = document.querySelector('any');
+const div = document.querySelector('#any');
   div.innerHTML = 'not any text';
 </script>
 
