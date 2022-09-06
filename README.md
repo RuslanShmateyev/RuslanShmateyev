@@ -36,7 +36,7 @@
   telegram bot with user authorization system and Google TTS API <br>
   https://t.me/sozdikterbot <br> <br>
   whatsapp bot for alerts <br>
-  +77764577194
+  +77764577194 <br> <br>
   
 <bold> 
 My Email: <br>
