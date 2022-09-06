@@ -5,16 +5,16 @@
   Python, <br>
   few PHP
 
-#### I know these technologies: <br>			 																													                                                     
-	Node js, <br>
+#### I know these technologies: <br>                              
+  Node js, <br>
   Vue, <br>
-	Quasar, <br>
-	Pandas, <br>
-	MySQL, <br>
-	PostgreSQL, <br>
-	OAuth 2.0, <br>
-	MongoDB, <br>
-	NoSQL
+  Quasar, <br>
+  Pandas, <br>
+  MySQL, <br>
+  PostgreSQL, <br>
+  OAuth 2.0, <br>
+  MongoDB, <br>
+  NoSQL
   
 #### I have experience in these projects:
   Telegram bots, <br>
