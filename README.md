@@ -5,16 +5,16 @@ I know these programming languages:
   Python,
   a few PHP
 
-I know these technologies:
-  Node js,
-  Vue,
-  Quasar,
-  Pandas,
-  MySQL,
-  PostgreSQL,
-  OAuth 2.0,
-  MongoDB,
-  NoSQL
+I know these technologies:\n
+Node js,
+Vue,
+Quasar,
+Pandas,
+MySQL,
+PostgreSQL,
+OAuth 2.0,
+MongoDB,
+NoSQL
   
 I have experience in these projects:
   Telegram bots,
