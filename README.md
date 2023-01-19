@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Ruslan Shmateyev's Portfolio</title>
-  </head>
   <body>
-    <h1>Welcome to my portfolio!</h1>
-    <nav>
-      <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
     <section id="about">
       <h2>About Me</h2>
       <p>My name is Ruslan Shmateyev, I am a software developer with experience in JavaScript, Node.js, and Python. I specialize in building APIs, websites, and Telegram and WhatsApp bots.</p>
