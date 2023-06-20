@@ -40,6 +40,9 @@
       <ul>
         <li>Email: <a href="mailto:r.shmateyev@gmail.com">r.shmateyev@gmail.com</a></li>
       </ul>
+      <ul>
+        <li>Phone: +77760062222</li>
+      </ul>
     </section>
   </body>
 </html>
