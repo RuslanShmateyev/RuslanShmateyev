@@ -24,7 +24,7 @@
           <a href="https://t.me/SmartAktauBot">View on telegram</a>
         </li>
         <li>
-          <h3>Telegram Bot with google calendar</h3>
+          <h3>Telegram Bot with google TTS</h3>
           <p>A Telegram bot built on Node js, that authorize users and use google TTS API.</p>
           <a href="https://t.me/sozdikterbot">View on telegram</a>
         </li>
